@@ -1,0 +1,12 @@
+git push 
+git pull
+git add .
+git commit -m "commit message"
+git branch 
+git checkout master 
+git checkout update_script
+git clone 
+git origin master
+git origin update_script 
+git config --global user.email "your email"
+git config --global user.name "your name"
